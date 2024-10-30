@@ -1,0 +1,21 @@
+.item{
+    display:inline-block;
+   margin-left: 3%; 
+   margin-right: 3%;
+   padding: 10px;
+   border-radius: 12px
+}
+.items{
+display:flex;
+justify-content:center;
+
+}
+
+.sectionheader {
+    text-align:center;
+
+}
+
+.itemh3 {
+    text-align:center;
+}
